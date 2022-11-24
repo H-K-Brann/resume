@@ -1033,3 +1033,11 @@ section .container {
 .credits span {
   text-decoration: underline #bd6fee;
 }
+
+.lhover span {
+    color: white;
+}
+
+.lhover span:hover {
+    color: #bd6fee;
+}
